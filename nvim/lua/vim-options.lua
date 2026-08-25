@@ -78,6 +78,3 @@ map("n", "<leader><Down>",  ":resize -5<CR>")
 -- Clear search highlight
 map("n", "<leader>c", ":nohlsearch<CR>")
 
-vim.keymap.set('n', '<Esc>', '<cmd>nohlsearch<CR>')
-
-
